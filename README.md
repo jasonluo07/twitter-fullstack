@@ -2,7 +2,7 @@
 
 # Simple Twitter
 
-![image](https://github.com/yulaie1012/twitter-fullstack/blob/main/public/images/cover.png)
+![image](https://github.com/jasonluo07/twitter-fullstack/blob/main/public/images/cover.png)
 
 本專案為 Alpha Camp 全端開發結業作品
 
@@ -31,7 +31,7 @@
 
 ## Showcase
 
-![image](https://github.com/yulaie1012/twitter-fullstack/blob/main/public/images/showcase.gif)
+![image](https://github.com/jasonluo07/twitter-fullstack/blob/main/public/images/showcase.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
